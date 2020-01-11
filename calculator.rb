@@ -1,6 +1,6 @@
-def first_number = 1
+first_number = 1
 
-def second_number = 30
+second_number = 30
 
-def sum = first_number + second_number
+sum = first_number + second_number
 
