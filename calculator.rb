@@ -1,6 +1,6 @@
-var first_number = 1
+def first_number = 1
 
-var second_number = 30
+def second_number = 30
 
-var sum = first_number + second_number
+def sum = first_number + second_number
 
